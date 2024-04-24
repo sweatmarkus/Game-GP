@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Kirkland/Documents/GitHub/Game-GP/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Kirkland/Documents/GitHub/Game-GP/MyProject/Content/FirstPerson/Blueprints/Components/Fishing/BP_FishingComponent.uasset",
 				"F:/Game Design principles/Evan Miller/god forbid 2/Game-GP/MyProject/Content/Import/Trees/Billboard/Billboard_4K_Albedo.uasset",
 				"F:/Game Design principles/Evan Miller/god forbid 2/Game-GP/MyProject/Content/Import/Trees/Billboard/Billboard_4K_AO.uasset",
 				"F:/Game Design principles/Evan Miller/god forbid 2/Game-GP/MyProject/Content/Import/Trees/Billboard/Billboard_4K_Displacement.uasset",
