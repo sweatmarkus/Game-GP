@@ -3197,3 +3197,6 @@ Make sure 'FirstPersonMap_C' has been compiled for  Set Inventory
 [2024.04.24-04.42.10:264][364]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2024.04.24-04.42.10:264][364]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2024.04.24-04.42.10:264][364]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.04.24-04.42.16:709][364]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.04.24-04.42.16:789][364]LogExit: Exiting.
+[2024.04.24-04.42.16:850][364]Log file closed, 04/24/24 00:42:16
