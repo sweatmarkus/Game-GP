@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/dunnks/Documents/GAME-GP/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/45/ZYH4W5AXHOTJGNN7EUF31Z.uasset",
+				"C:/Users/dunnks/Documents/GAME-GP/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/NZ/T46ODCZU2ZUMY564UW56A5.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/VREditor/UI/KeyDiskMaterial.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/VREditor/UI/KeyMaterial.uasset",
+				"C:/Users/dunnks/Documents/GAME-GP/Game-GP/MyProject/Content/MainMenulevel.umap",
 				"C:/Users/Kirkland/Documents/GitHub/Game-GP/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Kirkland/Documents/GitHub/Game-GP/MyProject/Content/FirstPerson/Blueprints/Components/Fishing/BP_FishingComponent.uasset",
 				"C:/Users/Kirkland/Documents/GitHub/Game-GP/MyProject/Content/Mainmenu/Main_menu.uasset",
