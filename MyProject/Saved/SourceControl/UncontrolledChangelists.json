@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/UE_5.3/Engine/Content/VREditor/UI/KeyMaterial.uasset",
 				"D:/UE_5.3/Engine/Content/VREditor/UI/KeyDiskMaterial.uasset",
 				"F:/Game Design principles/Evan Miller/god forbid 2/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/NZ/T46ODCZU2ZUMY564UW56A5.uasset",
@@ -1122,6 +1123,9 @@
 				"C:/Users/sweatm1/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset",
 				"C:/Users/sweatm1/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",
 				"C:/Users/sweatm1/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset"
+=======
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/VZ/3PQ7B7VEVHFZ7MSYI5WMDW.uasset"
+>>>>>>> Kirkland
 			]
 		}
 	]
